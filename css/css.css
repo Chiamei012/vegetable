@@ -1,0 +1,148 @@
+html{
+    background-color: #edf2c5;
+}
+.sum{
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+.header{
+    display: flex;
+}
+.Vegetables{
+    font-family: Arial;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin-right: 469px;
+}
+.tr{
+    margin-top: 60px;
+    
+}
+.fb, .ig{
+    width: 25px;
+    height: 25px;
+}
+.h2{
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.57;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    width: 60px;
+    height: 25px;
+    border: solid 1px #778a50;
+    margin: 5px 7px 5px 7px;
+  }
+.h3{
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline;
+    padding: 10px 30px 11px 30px; 
+}
+.ul{
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    list-style: none;
+    margin-bottom: 20px;
+}
+.pum{
+    box-sizing: border-box;
+    width: 940px;
+    height: 448px;
+    object-fit: contain;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.h4{
+    box-sizing:border-box;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color:#edf2c5; 
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-bottom: 15px;
+}
+.pe, .ca, .co{
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    margin-right: 12px;
+}
+}
+.article{
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+}
+.p1{
+    width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+.p2{
+    width: 197px;
+  height: 35px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+.footer{
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color:#edf2c5;
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50; 
+    margin-bottom: 0px;
+}
